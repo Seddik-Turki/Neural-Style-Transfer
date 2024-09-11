@@ -29,9 +29,14 @@ here are some of the results
 **Content Images**:
 ![content](images/content.png)
 
+
 **Style Image**:
-![style](images/style.png)
+![style]("images/style 1.png")
 
 **Output Image**:
 ![res](images/generated.png)
+
+This is another example with a different style image:
+![res](images/result.png)
+
 
