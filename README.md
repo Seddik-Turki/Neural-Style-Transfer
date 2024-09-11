@@ -25,15 +25,15 @@ The content loss measures how different the generated image is from the content 
 The style loss compares the style features of the generated image with the style image. We use the Gram matrix to capture correlations between the different channels of the style features:
 
 ## Results
-here are some of the results 
-**Content Images**:
+here are some of the results <br>
+**Content Images**:<br>
 ![content](images/content.png)
 
 
-**Style Image**:
+**Style Image**:<br>
 ![style](images/style_1.png)
 
-**Output Image**:
+**Output Image**:<br>
 ![res](images/generated.png)
 
 This is another example with a different style image:<br>
