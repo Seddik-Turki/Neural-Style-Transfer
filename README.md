@@ -31,12 +31,12 @@ here are some of the results
 
 
 **Style Image**:
-![style]("images/style 1.png")
+![style](images/style_1.png)
 
 **Output Image**:
 ![res](images/generated.png)
 
-This is another example with a different style image:
+This is another example with a different style image:<br>
 ![res](images/result.png)
 
 
