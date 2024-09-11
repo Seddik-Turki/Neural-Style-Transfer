@@ -26,7 +26,7 @@ The style loss compares the style features of the generated image with the style
 
 ## Results
 here are some of the results <br>
-**Content Images**:<br>
+**Content Image**:<br>
 ![content](images/content.png)
 
 
@@ -35,7 +35,7 @@ here are some of the results <br>
 
 **Output Image**:<br>
 ![res](images/generated.png)
-
+<br>
 This is another example with a different style image:<br>
 ![res](images/result.png)
 
